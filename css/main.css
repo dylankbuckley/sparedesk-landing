@@ -1,0 +1,80 @@
+/*
+.section-one {
+  background-image: url(../images/placeit.png);
+  background-size: cover;
+  background-position: left;
+}
+*/
+
+.section-two {
+  background-image: url(../images/bg1.png);
+}
+
+.section-three {
+  background-image: url(../images/10.png);
+  background-size: cover;
+  background-position: left;
+}
+
+.section-four {
+  background-image: url(../images/bg1.png);
+}
+
+.section-five {
+  background-image: url(../images/cars.jpg);
+  background-size: cover;
+  background-position: left;
+}
+
+h4 {
+  line-height: 30px;
+}
+
+.flex-center-vertically {
+  padding-top: 15%;
+}
+
+.signupinput {
+  width: 90%;
+  padding: 15px;
+  border: 1px solid #02B3E5;
+  margin-bottom: 15px;
+}
+
+.cta-btn {
+  color: white;
+  background-color: #02B3E5;
+  border: 2px solid white;
+}
+
+.modal {
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .modal:before {
+    display: inline-block;
+    vertical-align: middle;
+    content: " ";
+    height: 100%;
+  }
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.team-pic {
+  width: 100px;
+  border-radius: 100%;
+}
+
+.team-row {
+  padding-top: 15px;
+}
+
+.team-text {
+
+}
